@@ -20,9 +20,9 @@ This plugin enables [Apple HomeKit](https://developer.apple.com/homekit/) suppor
 
 ### Compact P
 
-[Compact P](https://www.nilan.dk/produkter/ventilation-med-opvarmning/ventilation-og-varmt-brugsvand/compact-p) ventilation and heating system with the CTS 700 control panel (older **non-touchscreen** version). The implementation is based on the [Modbus Registers Description document, dated 20150826](http://www.nilan.de/Admin/Public/Download.aspx?File=Files%2FFiler%2FDownload%2FFrench%2FDocumentation%2FGuide+dutilisation%2FModbus+CTS+700%2FModbus_Registers_Description_CTS700.pdf).
+[Compact P](https://www.nilan.dk/produkter/ventilation-med-opvarmning/ventilation-og-varmt-brugsvand/compact-p) ventilation and heating system with the CTS 700 control panel touch screen version. The implementation is based on the [Modbus Registers Description document, dated 20150826](http://www.nilan.de/Admin/Public/Download.aspx?File=Files%2FFiler%2FDownload%2FFrench%2FDocumentation%2FGuide+dutilisation%2FModbus+CTS+700%2FModbus_Registers_Description_CTS700.pdf). update need
 
-Note that the new CTS 700 touchscreen control panel uses a different version of the communication protocol and hence needs a different implementation.
+Note that the old CTS 700 touchscreen control panel uses a different version of the communication protocol and hence needs a different implementation.
 
 <img src="https://en.nilan.dk/Files/Billeder/Press/Nilan-Compact-P.jpg" height="120" alt="Nilan Compact P">
 

@@ -2,7 +2,7 @@
   "displayName": "Homebridge Nilan",
   "name": "homebridge-nilan",
   "version": "1.0.1",
-  "description": "Homebridge plugin for Nilan Compact P.",
+  "description": "Homebridge plugin for Nilan Compact P touchscreen.",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
